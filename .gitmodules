@@ -1,3 +1,6 @@
 [submodule "ReactPractice"]
 	path = ReactPractice
 	url = https://github.com/mdsuv/ReactPractice
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/mdsuv/portfolio
